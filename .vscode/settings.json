@@ -1,15 +1,2 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "PG Local",
-            "username": "postgres",
-            "database": "Movie Database Challenge",
-            "password": "Karabo1234",
-            "connectionTimeout": 30
-        }
-    ]
-}
+    "sqltools.connections"
